@@ -12,6 +12,7 @@ export default function App(){
     
     <Text style={mascara.titulo}>Suzano</Text>
     <View style={mascara.cx2}></View>
+    <Text>usando o GIThub desktop na aula do prof anselmo</Text>
     </SafeAreaView>
   );
 }
